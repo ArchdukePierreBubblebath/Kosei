@@ -56,14 +56,14 @@ Revenue streams include:
 
 ---
 
-## 📊 Market Opportunity
+## Market Opportunity
 
 - **Total Addressable Market (TAM)**: $816.3B (Global Nutrition Market)
 - **Serviceable Obtainable Market (SOM)**: $149.7B (Digital Food App Market)
 
 ---
 
-## 🛠️ Tech Stack (Planned)
+## Tech Stack (Planned)
 
 - Frontend: React Native or Flutter
 - Backend: Python / Node.js with REST API
@@ -73,7 +73,7 @@ Revenue streams include:
 
 ---
 
-## 📆 Timeline
+## Timeline
 
 | Quarter | Milestone |
 |---------|-----------|
@@ -84,7 +84,7 @@ Revenue streams include:
 
 ---
 
-## 🔐 Intellectual Property
+## Intellectual Property
 
 Kosei uses proprietary algorithms and secret database profiling methods to deliver high-quality, personalized recommendations. The company is structured as a **C Corporation** and maintains all core technology as trade secrets.
 
