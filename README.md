@@ -89,9 +89,3 @@ Revenue streams include:
 Kosei uses proprietary algorithms and secret database profiling methods to deliver high-quality, personalized recommendations. The company is structured as a **C Corporation** and maintains all core technology as trade secrets.
 
 ---
-
-## 🤝 Investment Opportunity
-
-We are seeking an investment of **$1.3 million** in exchange for **15% equity** and a board seat to help accelerate development, partnerships, and marketing.
-
----
