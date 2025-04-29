@@ -1,4 +1,4 @@
-# Kosei
+![Kosei App Mockup](Kosei_logo.png)
 
 **Curated Health at Your Fingertips**
 
